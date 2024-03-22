@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/287797/screenshots/9657405/media/d4f448c2c8dbb61ba5344422dd94934b.gif">
 
-- 👨‍💻 All of my projects are available at [[https://www.coursera.org/account/accomplishments/certificate/JMPATXUTL235](https://github.com/pranaynallanagula?tab=repositories)]
+- 👨‍💻 All of my projects are available at [https://github.com/pranaynallanagula?tab=repositories]
 
 - 📫 How to reach me **pranaynallanagula@gmail.com**
 
